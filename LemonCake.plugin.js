@@ -36,11 +36,31 @@ module.exports = (() => {
                 "discord_id": "169735811460366336",
                 "github_username": "sxdleroy"
             }],
-            "version": "1.3.8",
-            "description": "send nudes to Ikanaide#0525",
+            "version": "1.3.9",
+            "description": "send nudes to Ikanaide#0525 or else >:(",
             "github": "https://github.com/sxdleroy/LemonCake",
             "github_raw": "https://raw.githubusercontent.com/sxdleroy/LemonCake/main/LemonCake.plugin.js"
         },
+        "changelog": [
+            {
+                "title": "1.3.9",
+                "items": [
+                    "Fixed some Lemons"
+                ]
+            },
+            {
+                "title": "1.3.9",
+                "items": [
+                    "Peeling some Lemons"
+                ]            
+            },
+            {
+                "title": "Intial Release",
+                "items": [
+                    "First releast of LemonCake!"
+                ]
+            }
+        ],
         "main": "LemonCake.plugin.js"
     };
 
