@@ -49,9 +49,9 @@ module.exports = (() => {
                 ]
             },
             {
-                "title": "1.3.9",
+                "title": "1.3.8",
                 "items": [
-                    "Peeling some Lemons"
+                    "Peeling some Lemons whilst watching tentacle hentai"
                 ]            
             },
             {
