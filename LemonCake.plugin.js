@@ -33,10 +33,10 @@ module.exports = (() => {
             "name": "LemonCake",
             "authors": [{
                 "name": "sxdleroy",
-                "discord_id": "407348579376693260",
+                "discord_id": "169735811460366336",
                 "github_username": "sxdleroy"
             }],
-            "version": "1.3.7",
+            "version": "1.3.8",
             "description": "send nudes to Ikanaide#0525",
             "github": "https://github.com/sxdleroy/LemonCake",
             "github_raw": "https://raw.githubusercontent.com/sxdleroy/LemonCake/main/LemonCake.plugin.js"
